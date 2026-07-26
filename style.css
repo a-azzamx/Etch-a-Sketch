@@ -1,0 +1,28 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: px 0px 0px 0px;
+    margin: 0px;
+}
+
+.body {
+    height: 450px;
+}
+
+.footer {
+    height: 80px;
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
