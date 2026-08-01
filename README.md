@@ -5,7 +5,7 @@ A browser-based recreation of the classic Etch-a-Sketch toy, built with vanilla 
 
 ![Etch-a-Sketch Screenshot](./screenshot.png)
 
-🔗 **Live Demo:** [Add your live link here](https://your-live-link-here.com)
+🔗 **Live Demo:** [Add your live link here](https://a-azzamx.github.io/Etch-a-Sketch/)
 
 ---
 
