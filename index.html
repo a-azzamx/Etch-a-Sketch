@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Etch-a-Sketch</title>
         <link rel="stylesheet" href="style.css">
+
         
     </head>
 
@@ -16,7 +17,10 @@
         
         <div class="body">
             <div class="menu">
-
+                <p class="menu-label">choose your grid size</p>
+                <input type="range" id="gridSlider" min="16" max="64" value="32" class="grid-slider">
+                <p class="grid-size-display">32 X 32</p>
+                <button id="resetBtn" class="reset-btn">Clear</button>
             </div>
 
             <div class="grid">
@@ -26,8 +30,8 @@
         </div>
         
         <div class="footer">
-            <p>Copyright © 2026 Azzam</p>
+            <p>Copyright © 2026 a-azzamx</p>
         </div>
-        
+        <script src="myjava.js"></script>
     </body>
 </html>
